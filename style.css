@@ -38,8 +38,8 @@ img{
 
 .checkmark {
     font-family: arial;
-    -ms-transform: scaleX(-1) rotate(-35deg); /* IE 9 */
-    -webkit-transform: scaleX(-1) rotate(-35deg); /* Chrome, Safari, Opera */
+    -ms-transform: scaleX(-1) rotate(-35deg); 
+    -webkit-transform: scaleX(-1) rotate(-35deg); 
     transform: scaleX(-1) rotate(-35deg);
     padding: 1px;
     margin-top: 10px;
