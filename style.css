@@ -23,7 +23,6 @@ img{
 
 .right-bubble{
     margin-left: 5px;
-    
 }
 
 .time{
@@ -41,7 +40,6 @@ img{
     -ms-transform: scaleX(-1) rotate(-35deg); 
     -webkit-transform: scaleX(-1) rotate(-35deg); 
     transform: scaleX(-1) rotate(-35deg);
-    padding: 1px;
     margin-top: 10px;
   }
 
